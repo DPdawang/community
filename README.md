@@ -12,7 +12,7 @@
 
 [Github QAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
-##工具
+## Tool
 
 [Git](https://git-scm.com/downloads)
 
