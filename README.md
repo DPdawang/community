@@ -10,7 +10,9 @@
 [Bootstrap](https://v3.bootcss.com/getting-started/)
 
 [Github QAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+
 ##工具
 [Git](https://git-scm.com/downloads)
 
-[Visual Paradigm](https://wwww.visual-paradigm.com)
+
+
